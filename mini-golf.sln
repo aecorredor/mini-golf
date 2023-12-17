@@ -1,6 +1,6 @@
 ﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starter-template", "starter-template.csproj", "{AD762271-7048-4AB2-A6E3-217C58A87E72}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mini-golf", "mini-golf.csproj", "{AD762271-7048-4AB2-A6E3-217C58A87E72}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
